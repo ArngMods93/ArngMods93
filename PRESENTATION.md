@@ -1,4 +1,4 @@
-# 👋 Wassup! I'm ArgMods
+# 👋 Wassup! I'm Genius
 
 A guy who likes coding **everything**.
 

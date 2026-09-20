@@ -1,4 +1,4 @@
-# 👋 Wassup! I'm Genius
+# 👋 Wassup! I'm Stefan
 
 A guy who likes coding **everything**.
 
